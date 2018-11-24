@@ -1,0 +1,7 @@
+[
+  "tests/test_generator.py::test_generator_cat",
+  "tests/test_generator.py::test_generator_dog",
+  "tests/test_generator.py::test_generator_fish",
+  "tests/test_generator.py::test_generator_notfound",
+  "tests/test_sample.py::test_pass"
+]
