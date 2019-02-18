@@ -1,4 +1,5 @@
 #Dictionary of Sounds
+#Author : Jerome
 sounds_dict = {"cat":"meow","dog":"woof","fish":"..."}
 def generator(animal):
     """
