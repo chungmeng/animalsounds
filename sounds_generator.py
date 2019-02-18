@@ -1,4 +1,5 @@
 #Dictionary of Sounds
+#Contains 4 animals
 sounds_dict = {"cat":"meow","dog":"woof","fish":"..."}
 def generator(animal):
     """
