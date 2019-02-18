@@ -22,7 +22,7 @@ Requirements
 
 Compatibility
 -------------
-
+Python3.6
 Licence
 -------
 
