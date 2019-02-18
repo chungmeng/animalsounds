@@ -1,6 +1,7 @@
 #Dictionary of Sounds
 #Contains 4 animals
 #Author : Jerome
+#Created : Feb 2019
 sounds_dict = {"cat":"meow","dog":"woof","fish":"..."}
 def generator(animal):
     """
